@@ -13,5 +13,8 @@
 基于本地思考模型和agent,MCP等实现海龟汤游戏，AI扮演主持人  
 # 部署指南
 1.下载ollama,执行  
+
 `ollama pull qwen3:8b`  
-2.安装依赖，对于visual studio,单击python环境，选择一个python版本，右键选择从requirements.txt安装;对于其他，采取`pip -r install requirements.txt`
+2.安装依赖，对于visual studio,单击python环境，选择一个python版本，右键选择从requirements.txt安装;对于其他，采取
+
+`pip -r install requirements.txt`
