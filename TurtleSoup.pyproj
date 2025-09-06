@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2e55b821-7683-4460-87d4-c0b5d614402f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TurtleSoup.py</StartupFile>
+    <StartupFile>app.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TurtleSoup.py" />
+    <Compile Include="app.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".env" />
